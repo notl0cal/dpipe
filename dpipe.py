@@ -1,8 +1,4 @@
 ################################################################################
-# Author:       Marc Bohler - https://github.com/crusoe112                     #
-#                                                                              #
-# Description:  Uses Dirty Pipe vulnerability to pop a root shell using Python #
-#                                                                              #
 # Credits:      This code basically combines 2 existing poc's for dirty pipe:  #
 #                 https://github.com/febinrev/dirtypipez-exploit               #
 #                 https://github.com/eremus-dev/Dirty-Pipe-sudo-poc            #
