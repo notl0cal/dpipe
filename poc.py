@@ -5,7 +5,7 @@
 #                 Max Kellermann: max.kellermann@ionos.com                      
 #                 https://dirtypipe.cm4all.com/                                
 #                                                                              
-# Usage:        $ python dirty.py                                                
+# Usage:        $ python poc.py                                                
 #                                                                              
 # Requirements: Requires python > 3.10 because of os.splice                    
 #                                                                              
